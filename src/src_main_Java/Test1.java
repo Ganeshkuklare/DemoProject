@@ -6,6 +6,12 @@ public class Test1 {
 
 		
 		System.out.println("This is Ganesh Kuklare");
+		System.out.println("This is Ganesh Kuklare");
+		System.out.println("This is Ganesh Kuklare");
+
+		System.out.println("This is Ganesh Kuklare");
+
+
 		
 		
 	}
