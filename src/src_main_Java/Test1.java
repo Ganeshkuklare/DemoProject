@@ -1,16 +1,8 @@
 package src_main_Java;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.Actions;
-
 public class Test1 {
 
 	public static void main(String[] args) {
-
-		
 		System.out.println("This is Ganesh Kuklare");
 		System.out.println("This is Ganesh Kuklare");
 		System.out.println("This is Ganesh Kuklare");
@@ -41,8 +33,6 @@ public class Test1 {
 		
 		Actions action = new Actions(driver);
 		action.contextClick().perform();
-		
-		
 	}
 
 }
