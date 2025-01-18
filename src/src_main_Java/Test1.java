@@ -15,8 +15,7 @@ public class Test1 {
 		System.out.println("This is Ganesh Kuklare");
 		System.out.println("This is Ganesh Kuklare");
 
-		System.out.println("This is Ganesh Kuklare");
-		
+				
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.worldometers.info/world-population/");
 		driver.manage().window().maximize();
@@ -42,6 +41,9 @@ public class Test1 {
 		Actions action = new Actions(driver);
 		action.contextClick().perform();
 		
+		
+		System.out.println("This is Ganesh Kuklare");
+
 		
 	}
 
